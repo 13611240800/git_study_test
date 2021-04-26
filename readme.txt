@@ -24,3 +24,5 @@ Github
 github配置
 Cd ~/  -->   Cd .ssh  -->   生成密钥文件id_rsa.pub
 （命令：ssh-kengen -t rsa -C “40665316@qq.com”）
+
+用branch分支操作，master合并到此，现在是evn2分支
